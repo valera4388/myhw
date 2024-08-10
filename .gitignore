@@ -30,4 +30,4 @@ bin/
 
 .idea/
 
-myhw.iml
+*.iml
